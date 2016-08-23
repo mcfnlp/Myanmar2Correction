@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myanmar2Correction", "Myanmar2Correction\Myanmar2Correction.csproj", "{1B797E32-2BBD-4025-98F1-F6FE3B649221}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Myanmar2CorrectionSetup", "Myanmar2CorrectionSetup\Myanmar2CorrectionSetup.vdproj", "{A7ED3BEF-7CB2-4111-8C98-75B400B9B903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B797E32-2BBD-4025-98F1-F6FE3B649221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B797E32-2BBD-4025-98F1-F6FE3B649221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B797E32-2BBD-4025-98F1-F6FE3B649221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B797E32-2BBD-4025-98F1-F6FE3B649221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7ED3BEF-7CB2-4111-8C98-75B400B9B903}.Debug|Any CPU.ActiveCfg = Debug
+		{A7ED3BEF-7CB2-4111-8C98-75B400B9B903}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

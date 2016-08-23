@@ -1,0 +1,50 @@
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\obj\Debug\Myanmar2Correction.Form1.resources
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\obj\Debug\Myanmar2Correction.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\bin\Debug\Myanmar2Correction.exe
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\bin\Debug\Myanmar2Correction.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\obj\Debug\Myanmar2Correction.exe
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\obj\Debug\Myanmar2Correction.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2Correction\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.exe
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.pdb
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Myanmar2Correction.exe
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Myanmar2Correction.pdb
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.Form1.resources
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Myanmar2Correction.exe
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Myanmar2Correction.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.Form1.resources
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.exe
+C:\Documents and Settings\ag\Desktop\JustWork\2Corrector\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.pdb
+D:\ag\KKhant\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.ResolveComReference.cache
+D:\ag\KKhant\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.exe
+D:\ag\KKhant\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.exe
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.pdb
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Myanmar2Correction.exe
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Myanmar2Correction.pdb
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\SyllableCluster.dll
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\office.dll
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\bin\Debug\office.xml
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.csproj.ResolveComReference.cache
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.Form1.resources
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.Properties.Resources.resources
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\ResGen.read.1.tlog
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\ResGen.write.1.tlog
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.exe
+C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction\obj\Debug\Myanmar2Correction.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Myanmar2Correction">
+</Property><Property Name="Solution File" Value="C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction.sln">
+</Property><Property Name="User Options File" Value="C:\MyProjects\MyCode\Myanmar2CorrectionRE\Myanmar2Correction.suo">
+</Property><Property Name="Date" Value="Monday, June 20, 2011">
+</Property><Property Name="Time" Value="13:57 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Myanmar2Correction.sln" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Myanmar2Correction.suo" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction.suo">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Myanmar2Correction.csproj" Description="Project file successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Myanmar2Correction.csproj">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Corrector.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Corrector.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Corrector2.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Corrector2.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\ExcelCorrector.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\ExcelCorrector.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Form1.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Form1.Designer.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Logging.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Logging.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Program.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Program.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\TextCorrector.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\TextCorrector.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\WordCorrector.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\WordCorrector.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\WordXML_Utilities.cs" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\WordXML_Utilities.cs">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Properties\Settings.settings" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Form1.resx" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Properties\Resources.resx" Description="File successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2Correction\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Myanmar2Correction.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Myanmar2Correction" Source="Myanmar2Correction\Myanmar2Correction.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Myanmar2CorrectionSetup.vdproj" Source="Myanmar2CorrectionSetup\Myanmar2CorrectionSetup.vdproj" Description="Project file successfully backed up as C:\MyProjects\MyCode\Myanmar2CorrectionRE\Backup\Myanmar2CorrectionSetup\Myanmar2CorrectionSetup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Myanmar2Correction.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Myanmar2Correction.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Myanmar2Correction" Source="Myanmar2Correction\Myanmar2Correction.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
